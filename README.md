@@ -20,8 +20,8 @@
 :man_technologist: About Me :
 
 I am a software engineer and data scientist.
-- 🔭 I’m currently working on backend applications.
-- 🌱 I’m currently learning `Kafka` .
+- 🔭 I’m currently working on data science applications.
+- 🌱 I’m currently learning `LLM Context aware Embeddings` .
 - 👯 I’m looking to collaborate on distributed systems and data science applications.
 - 🤔 I’m looking for help with professional development in the tech industry.
 - 💬 Ask me about anything you like.
